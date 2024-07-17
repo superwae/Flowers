@@ -1,0 +1,7 @@
+tensorflow==2.9.1
+tensorflow-hub==0.12.0
+tensorflow-datasets==4.5.2
+numpy==1.21.6
+Pillow==9.0.1
+matplotlib==3.5.2
+scipy==1.7.3
